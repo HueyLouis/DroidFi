@@ -1,6 +1,6 @@
 # DroidFi
 
-**Incomplete**
+**Still In Progress**
 
 DroidFi is a Wifi Phishing tool for Android. It is available on GitHub at https://github.com/HueyLouis/DroidFi. The tool can be used to perform phishing attacks on Wifi networks. The tool is written in Python and requires root access to run. 
 
